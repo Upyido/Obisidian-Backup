@@ -29,4 +29,4 @@ if typedPassword == secretPassword:
 	The name python comes from the surreal british comedy group Monty Python
  
 # Programmers Don't Need to Know Math
-A common anxiety about learning to program is the notion that it requires a lot of math. However the truth couldn't be more contrary, not requiring more than basic arithmetic. 
+A common anxiety about learning to program is the notion that it requires a lot of math. However the truth couldn't be more contrary, not requiring more than basic arithmetic. In fact, being good at programming isn't that much different from being good at solving Sudoku puzzles. 
