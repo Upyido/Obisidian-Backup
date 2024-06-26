@@ -1,4 +1,6 @@
 https://futurecoder.io/ 
+https://learnbyexample.github.io/py_resources/
+
 
 - [Related Subreddits](https://www.reddit.com/r/learnpython/wiki/index/#wiki_related_subreddits)
 - [FAQs](https://www.reddit.com/r/learnpython/wiki/index/#wiki_faqs)
