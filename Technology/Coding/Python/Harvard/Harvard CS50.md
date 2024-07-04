@@ -42,4 +42,11 @@ It can be visual, it can be audio. In this case, it's something that appears on 
 Hello, world.
 
 #### Bugs 
-Mistakes are okay, even seasoned programmers will make mistakes. These mistakes are most commonly referred to as [[Bugs]]. A term you may already be familiar with. But a bug can take many different forms. But at the end of the day bugs are just problems for you to solve 
+Mistakes are okay, even seasoned programmers will make mistakes. These mistakes are most commonly referred to as [[Bugs]]. A term you may already be familiar with. But a bug can take many different forms. But at the end of the day bugs are just problems for you to solve. 
+Remember that typos are a big deal to the computer as it will take you literally. You can not treat this as if you were texting. So if you don't finish your thought in the way the language expects, its not going necessarily run at all. 
+
+For example 
+```
+print("hello world"
+```
+This code will not work and will turn back a syntax error as the parenthesis was never closed
