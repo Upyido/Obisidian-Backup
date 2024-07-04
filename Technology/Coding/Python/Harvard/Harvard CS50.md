@@ -17,11 +17,11 @@ For example
 print("Hello World!!!")
 ```
 
-The code above will print "Hello World!!!" to the terminal when ran. Now you may have noticed as you were typing within the editor that it will auto complete certain actions such as () or "". It is a common feature among devlopment environments that you wouldn't necessarily find else where like MSword or GDocs.  
+The code above will print "Hello World!!!" to the terminal when ran. Now you may have noticed as you were typing within the editor that it will auto complete certain actions such as () or "". It is a common feature among development environments that you wouldn't necessarily find else where like MSword or GDocs.  
 
 #### Functions
 
-A function is like an action or a verb that lets you do something in the program.
+A [[function]] is like an action or a verb that lets you do something in the program.
 And generally speaking, any language comes with some predetermined set
 Of functions; some very basic actions or verbs that the computer will already
 Know how to do for you, that the language, really, Will know how to do for you.
@@ -31,3 +31,15 @@ In the case of our example up above our function is print(). Now the print funct
 
 
 #### Arguments
+
+An [[argument]] is an input to a function that somehow influences its behavior.
+
+The people who invented Python, of course, didn't necessarily know what it is you and I are going to want to print to the screen, so they designed this print function using these parentheses with the ability to take as input some string of text, be it in English or any other human language, that is what you want this function ultimately to print onto the screen. And what is it that the program is ultimately doing on the screen? 
+Well, it's printing, of course. It's showing us hello, world on the screen. And that's generally in programming known as a side effect. 
+
+##### Side effects
+It can be visual, it can be audio. In this case, it's something that appears on the screen. and functions, therefore, can indeed have these side effects. One of the things they can do as this verb or action is to display on the screen as a side effect, something like those words that we wanted--
+Hello, world.
+
+#### Bugs 
+Mistakes are okay, even seasoned programmers will make mistakes. These mistakes are most commonly refereed to as [[Bugs]] 
