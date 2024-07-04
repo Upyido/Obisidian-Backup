@@ -42,4 +42,4 @@ It can be visual, it can be audio. In this case, it's something that appears on 
 Hello, world.
 
 #### Bugs 
-Mistakes are okay, even seasoned programmers will make mistakes. These mistakes are most commonly refereed to as [[Bugs]] 
+Mistakes are okay, even seasoned programmers will make mistakes. These mistakes are most commonly referred to as [[Bugs]]. A term you may already be familiar with. But a bug can take many different forms. But at the end of the day bugs are just problems for you to solve 
