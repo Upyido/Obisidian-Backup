@@ -125,3 +125,7 @@ https://www.revzilla.com/motorcycle/puig-r-racer-windscreen-triumph-speed-triple
 ## Helpful guides
 
 https://m.youtube.com/watch?si=6Wb-y2-qUBvPGYLe&v=YXg3ahI-M0Y&feature=youtu.be
+
+## REI
+
+https://www.rei.com/product/189288/biolite-firepit
