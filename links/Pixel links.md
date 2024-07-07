@@ -65,6 +65,9 @@ https://www.zdnet.com/article/meet-hackbat-an-open-source-more-powerful-flipper-
 
 https://www.crowdsupply.com/signaloid/signaloid-c0-microsd
 
+https://www.xda-developers.com/easp32-beginners-guide/
+
+
 ## devops
 
 https://thehackernews.com/2024/06/what-is-devsecops-and-why-is-it.html?m=1
