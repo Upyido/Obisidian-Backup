@@ -50,3 +50,11 @@ For example
 print("hello world"
 ```
 This code will not work and will turn back a syntax error as the parenthesis was never closed
+
+#### User input
+
+```
+input("what's your name?")
+```
+
+For the input function it will take an argument and print it, negating the need for a separate print function. The above code will ask the user what their name is, and then look for input. However, the above code does not know what to do with that, meaning to the user nothing will happen.
