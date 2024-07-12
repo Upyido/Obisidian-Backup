@@ -9,6 +9,8 @@ https://hackaday.com/2024/05/30/noodles-time-themselves-while-cooking/
 
 https://hackaday.com/2024/05/14/breadboardos-a-command-line-interface-for-the-pico/
 
+https://hackaday.com/2024/07/08/hack-all-the-things-get-all-the-schematics/
+
 ## server guides
 https://www-neowin-net.cdn.ampproject.org/v/s/www.neowin.net/amp/self-hosting-installing-the-proxmox-hypervisor/?amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=From%20%251%24s&aoh=17198178623389&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.neowin.net%2Fguides%2Fself-hosting-installing-the-proxmox-hypervisor%2F
 
@@ -36,6 +38,9 @@ https://www.howtogeek.com/warp-ai-powered-linux-terminal/
 https://www.howtogeek.com/best-default-linux-terminal-alternatives/#foot
 
 https://nethsecurity.org/
+
+https://dev.to/dev-nnamdi/50-basic-linux-commands-42dg
+
 
 
 ## coding
