@@ -50,4 +50,30 @@ Under Cover - Honda (74511-TVA-A00) 118.10
 
 Sub total - 751.68
 
-Front Bumper
+### Exterior
+
+![[Pasted image 20240722151326.png]]
+For 2018-2020 Honda Accord Sedan JDM Sport Style upper lower bumper Grille 4 pcs - 99.99
+https://www.ebay.com/itm/304970614584?itmmeta=01J2MKRSE1AVCHBNQC9TPQC106&hash=item4701aa4738%3Ag%3AuwIAAOSwcUpkf8b6&amdata=enc%3AAQAJAAAA4LOmhg4thgJK--mW2XVmnkeLi%2FwxLSr0vnlAVeI%2BlTjXCYYcsz8J7iNulHMHoz8OChbwL%2FcfkvvtErNQT%2Bx3oV1xvHGOHdSJozC41oHF2jwDcoWTES4EFKJg0aeApwqN96qrHHtsFqGdIKNTCKcV2Z9%2FG%2FST1O39oB6B0VTytUDSrEWTOOpdzsJBMrCRaCqutpEinDXrjDHUbxOuOsjPrFumlEwJmfQEo7uE8hi9lgC3Xl4ELTHG5gjNMcpJmz7bADI6aZoXRcLD8jxsUVV%2BsA6ZgGsUjd%2Frz%2FBAk6NZ0WHd%7Ctkp%3ABFBMkpfjk5Vk&fits=Year%3A2018%7CModel%3AAccord%7CMake%3AHonda
+
+![[Pasted image 20240722152127.png]]
+ 2018-20 Honda Accord Front Bumper By YOFER - Modular Series - 719.99
+ https://hirevsports.com/products/honda-accord-modular?_pos=1&_sid=d03df4a62&_ss=r
+
+Total = 818.99
+
+![[Pasted image 20240722152440.png]]
+ 2018-22 Honda Accord Side Skirts V2 By YOFER - 239.99
+ https://hirevsports.com/collections/accord-body-kits/products/hrs-2018-20-honda-accord-side-skirts-v2
+
+![[Pasted image 20240722152625.png]]
+ 2018-22 Honda Accord Rear Diffuser - V2/3rd Brake light By YOFER - 269.99
+https://hirevsports.com/collections/accord-body-kits/products/hrs-2018-21-honda-accord-rear-diffuser-yfr-v2?variant=41414760104104
+
+![[Pasted image 20240722153337.png]]
+ HRS - 2018-22 Honda Accord LED Tail Lights - The Elite Series - 349.99
+ https://hirevsports.com/collections/accord-lighting/products/hrs-2018-22-honda-accord-led-tail-lights-the-elite-series?variant=43729956339950
+
+
+![[Pasted image 20240722153518.png]] HRS 2018-22 Honda Accord Chrome Delete Kit - The Elite Series - 149.99
+https://hirevsports.com/collections/accord-exterior/products/hrs-2018-22-honda-accord-chrome-delete-kit
