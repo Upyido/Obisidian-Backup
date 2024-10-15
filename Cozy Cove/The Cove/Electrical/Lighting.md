@@ -4,3 +4,12 @@
 	- Rear porch
 	- Front porch
 	- Front yard
+- Indoor
+	- Master bedroom
+		- Fan light
+	- Hallway
+	- Jim's room
+	- Third bedroom
+	- Living room
+	- Kitchen
+	- Bathroom
