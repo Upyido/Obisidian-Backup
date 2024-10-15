@@ -10,8 +10,13 @@
 - Air Compressor
 	- https://www.homedepot.com/p/RIDGID-6-Gal-Portable-Electric-Pancake-Air-Compressor-w-18GA-Brad-Nailer-16GA-Straight-Finish-Nailer-18GA-Finish-Stapler-R69603FK/318108673
 	- ![[Pasted image 20241015114120.png]]
-- Finish & Framing Nailer
-	- https://www.homedepot.com/p/RIDGID-Pneumatic-21-3-1-2-in-Round-Head-Framing-Nailer-and-15-1-3-4-in-Coil-Roofing-Nailer-R350RHF-R175RNF/300190319 
-	- ![[Pasted image 20241015113355.png]]
+	- https://www.homedepot.com/p/RIDGID-1-4-in-50-ft-Lay-Flat-Air-Hose-R5025LF/308177709
+	- ![[Pasted image 20241015114835.png]]
+- Framing Nailer
+	- https://www.homedepot.com/p/RIDGID-Pneumatic-21-Degree-3-1-2-in-Round-Head-Framing-Nailer-R350RHF/207103100
+	- ![[Pasted image 20241015114658.png]]
 - Sander
+	- https://www.homedepot.com/p/Makita-3-Amp-5-in-Corded-Variable-Speed-Random-Orbital-Sander-with-Dust-Bag-BO5041/205671780
+	- ![[Pasted image 20241015115315.png]]
+- Crowbar // Prybar
  
