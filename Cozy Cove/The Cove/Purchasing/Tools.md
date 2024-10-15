@@ -26,6 +26,8 @@
 	- https://www.homedepot.com/p/Milwaukee-10-in-Molding-Puller-Pry-Bar-with-12-in-Nail-Puller-with-Dimpler-9-in-Nail-Puller-with-Dimpler-3-Piece-48-22-9033-48-22-9032-48-22-9030/321053975
 	- ![[Pasted image 20241015121513.png]]
 - Multimeter
+	- https://www.amazon.com/dp/B00DTSLWRA/ref=sspa_dk_detail_0?psc=1&s=hi&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM
+	- ![[Pasted image 20241015122511.png]]
 - Electric usage meter
 - Packout Storage
 - 
