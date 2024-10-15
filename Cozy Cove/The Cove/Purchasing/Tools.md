@@ -21,4 +21,12 @@
 	- https://www.homedepot.com/p/Milwaukee-M12-12V-FUEL-Lithium-Ion-Cordless-Orbital-Detail-Sander-Tool-Only-W-80-120-180-Grit-Mesh-Sanding-Sheets-12-Pack-2531-20-48-80-5405/322889050
 	- ![[Pasted image 20241015115714.png]]
 - Crowbar // Prybar
+	- https://www.homedepot.com/p/Milwaukee-21-in-Pry-Bar-48-22-9042/321180858
+	- ![[Pasted image 20241015121447.png]]
+	- https://www.homedepot.com/p/Milwaukee-10-in-Molding-Puller-Pry-Bar-with-12-in-Nail-Puller-with-Dimpler-9-in-Nail-Puller-with-Dimpler-3-Piece-48-22-9033-48-22-9032-48-22-9030/321053975
+	- ![[Pasted image 20241015121513.png]]
+- Multimeter
+- Electric usage meter
+- Packout Storage
+- 
  
