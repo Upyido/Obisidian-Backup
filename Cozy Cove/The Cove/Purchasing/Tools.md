@@ -1,7 +1,17 @@
-- Plunge Cutter
-- Circular saw
-- Table saw
+- Oscillating Tool 
+	- https://www.homedepot.com/p/Bosch-5-5-Amp-Corded-StarlockMax-Variable-Speed-Oscillating-Multi-Tool-Kit-with-Carrying-Bag-4-Piece-GOP55-36B/300708196 
+	- ![[Pasted image 20241015110427.png]]
+- Circular saw & Sawsall
+	- https://www.homedepot.com/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Cordless-7-1-4-in-Rear-Handle-Circ-Saw-w-SAWZALL-Two-6-Ah-High-Output-Batteries-2-Tool-2830-20-2821-20-48-11-1862/322194218#overlay
+	- ![[Pasted image 20241015111306.png]]
+- Table saw & Chop Saw
+	- https://www.homedepot.com/p/Milwaukee-M18-FUEL-ONE-KEY-18-Volt-Lithium-Ion-Brushless-Cordless-8-1-4-in-Table-Saw-with-Stand-and-10-in-Miter-Saw-with-Stand-2736-20-2734-20-48-08-0561-48-08-0551/317512872#overlay
+		- ![[Pasted image 20241015112530.png]]
 - Air Compressor
-- Brad gun
-- Framing nailer
-- 
+	- https://www.homedepot.com/p/RIDGID-6-Gal-Portable-Electric-Pancake-Air-Compressor-w-18GA-Brad-Nailer-16GA-Straight-Finish-Nailer-18GA-Finish-Stapler-R69603FK/318108673
+	- ![[Pasted image 20241015114120.png]]
+- Finish & Framing Nailer
+	- https://www.homedepot.com/p/RIDGID-Pneumatic-21-3-1-2-in-Round-Head-Framing-Nailer-and-15-1-3-4-in-Coil-Roofing-Nailer-R350RHF-R175RNF/300190319 
+	- ![[Pasted image 20241015113355.png]]
+- Sander
+ 
