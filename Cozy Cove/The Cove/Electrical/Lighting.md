@@ -1,0 +1,6 @@
+- Outdoor
+	- Shed
+	- Backyard
+	- Rear porch
+	- Front porch
+	- Front yard

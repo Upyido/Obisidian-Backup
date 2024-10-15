@@ -1,0 +1,7 @@
+- Plunge Cutter
+- Circular saw
+- Table saw
+- Air Compressor
+- Brad gun
+- Framing nailer
+- 
