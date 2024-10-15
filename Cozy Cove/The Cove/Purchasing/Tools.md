@@ -29,6 +29,8 @@
 	- https://www.amazon.com/dp/B00DTSLWRA/ref=sspa_dk_detail_0?psc=1&s=hi&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM
 	- ![[Pasted image 20241015122511.png]]
 - Electric usage meter
+	- https://www.amazon.com/Century-Energy-Voltage-Electricity-Monitor/dp/B06XH73LJB/ref=sr_1_15?sr=8-15
+	- ![[Pasted image 20241015130549.png]]
 - Packout Storage
 - 
  

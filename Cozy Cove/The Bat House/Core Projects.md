@@ -1,4 +1,13 @@
 - Kitchen
+	- Repair drywall
 - Addition
+	- Convert to patio
 - Bathroom
+	- Remove pink tile
+	- 
 - Bedrooms
+	- Repair drywall
+		- Pink Bedroom
+			- Paint
+		- 2 nd bedroom
+		- Masterbedroom
