@@ -18,5 +18,7 @@
 - Sander
 	- https://www.homedepot.com/p/Makita-3-Amp-5-in-Corded-Variable-Speed-Random-Orbital-Sander-with-Dust-Bag-BO5041/205671780
 	- ![[Pasted image 20241015115315.png]]
+	- https://www.homedepot.com/p/Milwaukee-M12-12V-FUEL-Lithium-Ion-Cordless-Orbital-Detail-Sander-Tool-Only-W-80-120-180-Grit-Mesh-Sanding-Sheets-12-Pack-2531-20-48-80-5405/322889050
+	- ![[Pasted image 20241015115714.png]]
 - Crowbar // Prybar
  
