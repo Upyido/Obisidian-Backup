@@ -1,3 +1,11 @@
 - AK
 	- Stuff & Things furniture
+		- https://www.centuryarms.com/vska-poly-7-62-x-39.html 
+		- ![[Pasted image 20241015151611.png]]
+		- https://stincusa.com/product/bpk-762
+		- ![[Pasted image 20241015151632.png]]
+		- https://zastavaarmsusa.com/product/zpapm90-zr90556qr-semi-automatic-rifle/
+		- ![[Pasted image 20241015151706.png]]
+		- https://stincusa.com/product/bpk-92-bullpup-kit-for-zastava-zpap-m92-7-62x39mm
+		- ![[Pasted image 20241015151727.png]]
 - AR 10
