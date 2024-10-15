@@ -1,5 +1,7 @@
 - Kitchen
 	- Repair drywall
+	- Appliances
+	- Counters/vanities 
 - Addition
 	- Convert to patio
 - Bathroom

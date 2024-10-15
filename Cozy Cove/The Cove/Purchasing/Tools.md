@@ -32,5 +32,14 @@
 	- https://www.amazon.com/Century-Energy-Voltage-Electricity-Monitor/dp/B06XH73LJB/ref=sr_1_15?sr=8-15
 	- ![[Pasted image 20241015130549.png]]
 - Packout Storage
-- 
+	- https://www.homedepot.com/p/Milwaukee-PACKOUT-Dolly-24-in-x-18-in-Black-Multi-Purpose-Utility-Tool-Cart-48-22-8410/310989240
+	- ![[Pasted image 20241015131229.png]]
+	- https://www.homedepot.com/p/Milwaukee-PACKOUT-22-in-Modular-3-Drawer-Multi-Drawer-Tool-Box-with-Metal-Reinforced-Corners-and-50-lbs-Capacity-48-22-8447/326479354
+	- ![[Pasted image 20241015131255.png]]
+	- https://www.homedepot.com/p/Milwaukee-PACKOUT-22-in-Modular-4-Drawer-Tool-Box-with-Metal-Reinforced-Corners-and-50-lbs-Capacity-48-22-8444/326480385
+	- ![[Pasted image 20241015131312.png]]
+	- https://www.homedepot.com/p/Milwaukee-PACKOUT-22-in-2-Drawer-Tool-Box-with-Metal-Reinforced-Corners-48-22-8442/315059770
+	- ![[Pasted image 20241015131336.png]]
+	- https://www.homedepot.com/p/Milwaukee-15-in-Packout-Tote-with-Screwdriver-Set-8-Piece-48-22-8315-48-22-2718/305907119
+	- ![[Pasted image 20241015131437.png]]
  
