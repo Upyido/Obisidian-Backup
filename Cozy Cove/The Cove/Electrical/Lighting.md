@@ -1,15 +1,29 @@
 - Outdoor
 	- Shed
+		- Flood lighting
+		- Interior lighting
 	- Backyard
+		- Fence lighting
 	- Rear porch
+		- Flood lighting
+		- Eve lighting
 	- Front porch
+		- Fan light
+		- Lights under eve
 	- Front yard
+		- Eve lighting
+		- Spots
 - Indoor
 	- Master bedroom
 		- Fan light
 	- Hallway
+		- Light fixture
 	- Jim's room
+		- Fan light
 	- Third bedroom
+		- Fan light
 	- Living room
 	- Kitchen
+		- Light fixture
 	- Bathroom
+		- Vanity light

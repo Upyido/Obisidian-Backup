@@ -8,5 +8,6 @@
 	- First aid
 	- CPR
 	- Wilderness Survival
+- Ham radio communications
 
 
