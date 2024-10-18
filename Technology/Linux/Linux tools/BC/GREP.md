@@ -246,3 +246,7 @@ grep -m 2 ABC sample
 When you execute this command, it will display the terminal prints with the first 2 matches identified in the sample file. 
 
 If you do not declare the files in the current directory, the output automatically fetches the first two results from every file and the filename containing the respective matches.
+
+
+
+https://www.hostbillo.com/blog/how-to-use-grep-command-in-linux/
