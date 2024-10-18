@@ -1,5 +1,9 @@
 - Lean-too
 	- Sand & Pavers
+		- https://www.homedepot.com/p/Pavestone-RumbleStone-Rec-10-5-in-x-7-in-x-1-75-in-Cafe-Concrete-Paver-90969/203647574
+		- ![[Pasted image 20241017153709.png]]
+		- https://www.homedepot.com/p/Techniseal-EZ-Sand-40-lbs-Gray-Polymeric-Sand-40100398/315054918
+		- ![[Pasted image 20241017154012.png]]
 	- Cut Rebar
 - Golf Cart
 	- Refresh Battery System

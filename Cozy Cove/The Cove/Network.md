@@ -10,3 +10,5 @@
 	- Storage
 - Case
 - Battery Backup
+	- https://www.amazon.com/dp/B0BCMLLSHL/ref=sspa_dk_detail_0?s=electronics&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM
+	- ![[Pasted image 20241017152241.png]]
