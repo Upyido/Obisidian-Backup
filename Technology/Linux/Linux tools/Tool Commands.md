@@ -19,7 +19,7 @@ sudo nala update && sudo nala upgrade -y
 [[chmod]] - Change file or directory permissions.
 [[chown]] - Change file or directory owner and group.
 [[find]] - Search for files in a directory hierarchy.
-[[grep]] - Search text using patterns.
+[[GREP]] - Search text using patterns.
 [[man]] - Display the manual for a command.
 [[ps]] - Display information about running processes.
 [[kill]] - Terminate processes by PID.
