@@ -1,0 +1,11 @@
+- File Server
+	- Terramaster F 2-424 $380
+		- Storage
+			- Western Digital 500 GB WD Red SN 700 NVMe $80
+			- Western Digital 2 TB WD Red Pro 93*2 
+				- Upgrade option Western Digital 1TB WD Red SA500 $110
+- User Systems
+	- 16 inch
+		- ThinkPad E16 Gen 2 $740
+	- 14 inch
+		- ThinkPad E14 Gen 6 $700 
