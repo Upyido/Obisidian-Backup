@@ -1,4 +1,4 @@
-
+ 
 | Core Gear                | Weight   | Price  |
 | ------------------------ | -------- | ------ |
 | Backpack archaul 60      | 20.9 .oz | 399.00 |
@@ -14,20 +14,20 @@
 | Paracord Rope            |          |        |
 | Compression sacks        |          |        |
 
-| Clothing       | Weight | Price |
-| -------------- | ------ | ----- |
-| Shirt          |        |       |
-| Base layer     |        |       |
-| Long underwear |        |       |
-| Underwear      |        |       |
-| Socks          |        |       |
-| Lounge shoes   |        |       |
-| Rain jacket    |        |       |
-| Thermal liner  |        |       |
-| Fleece jacket  |        |       |
-| Warm jacket    |        |       |
-| Pants          |        |       |
-| Gloves         |        |       |
+| Clothing           | Weight | Price |
+| ------------------ | ------ | ----- |
+| Shirt              |        |       |
+| Base layer         |        |       |
+| Long underwear *2* |        |       |
+| Underwear *3*      |        |       |
+| Socks *4*          |        |       |
+| Lounge shoes       |        |       |
+| Rain jacket        |        |       |
+| Thermal liner      |        |       |
+| Fleece jacket      |        |       |
+| Warm jacket        |        |       |
+| Pants              |        |       |
+| Gloves             |        |       |
 
 | Toiletries     | Weight | Price |
 | -------------- | ------ | ----- |
@@ -39,14 +39,13 @@
 | Dry shampoo    |        |       |
 | Chaffing cream |        |       |
 
-| Shelter system       | Weight  | Price  |
-| -------------------- | ------- | ------ |
-| Zpak duplex          | 17.9 oz | 699    |
-| Hammock              |         | --     |
-| Zpaks 10* solo quilt | 20 oz   | 439.99 |
-| Neoair x-lite        | 13 oz   | 209    |
-| Pillow aeros ul      | 2.1 oz  | --     |
-| Ground cover - tyvek |         |        |
+| Shelter system              | Weight | Price  |
+| --------------------------- | ------ | ------ |
+| Starlite Hammock            | 21 oz  | 189.95 |
+| 30 f superior quilt RB* x 2 | 24 oz  | 299.95 |
+| Neoair x-lite               | 13 oz  | 175.99 |
+| Pillow aeros ul             | 2.1 oz | --     |
+| Ground cover - tyvek        |        |        |
 
 | Cookware             | Weight | Price |
 | -------------------- | ------ | ----- |
