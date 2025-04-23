@@ -17,14 +17,30 @@
 ![[204b-GroupMembership.png]]
 - Select SIP tab
 - Input the SIP id to the phone number field
+	-  Input the SIP id:
+		- Go to intermedia portal
+		- Look in customer profile
+		- Select Devices
+		- Select the device
+		- Look for SIP credentials and next to it select get credentials
+		- Copy Authentication ID & input it to the phone number field 
 - Input the description of the device
 - Input the SIP id to the authentication name field
+	-  Input the SIP id:
+		- Go to intermedia portal
+		- Look in customer profile
+		- Select Devices
+		- Select the device
+		- Look for SIP credentials and next to it select get credentials
+		- Copy Authentication ID & input it to the Authentication Name field 
 - Input the secret value:
 	- Go to intermedia portal
 	- Look in customer profile
 	- Select Devices
 	- Select the device
 	- Look for SIP credentials and next to it select get credentials
-	- 
+	- Copy password & input it to the Secret field
+- Primary SIP Server should be hpbx155.Telecomsvc.Com
+- Backup 1 should be hpbx155.Telecomsvc.Com 
+- Ensure Register is checked
 ![[Valcom VIP-204b settings.png]]
-
