@@ -14,6 +14,8 @@
 - Select the Group Membership tab
 - In the group window select the Group # (999)box to ensure it has a check mark
 - Select Apply
+
+
 ![[204b-GroupMembership.png]]
 - Select SIP tab
 - Input the SIP id to the phone number field
@@ -44,3 +46,7 @@
 - Backup 1 should be hpbx155.Telecomsvc.Com 
 - Ensure Register is checked
 ![[Valcom VIP-204b settings.png]]
+
+
+
+EXTREME EMERGENCIES FIND SOMEONE TO REACH OUT TO DON

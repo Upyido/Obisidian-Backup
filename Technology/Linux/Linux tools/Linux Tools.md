@@ -4,4 +4,5 @@
 [[Warp ai]]
 [[Neofetch]]
 [[ClevoKeyboard]]
+[[fsck]]
 
