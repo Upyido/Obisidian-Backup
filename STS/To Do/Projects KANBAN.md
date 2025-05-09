@@ -26,6 +26,7 @@ kanban-plugin: board
 - [ ] /NEC/SL 1100
 - [ ] /NEC/SL 2100
 - [ ] /SITE NOTES
+- [ ] Verify Folder structure of AA recordings
 
 
 ## RTFM
@@ -47,6 +48,7 @@ kanban-plugin: board
 - [ ] Distributers
 - [ ] Cameras
 - [ ] Printers
+- [ ] Audacity recording python script
 
 
 
