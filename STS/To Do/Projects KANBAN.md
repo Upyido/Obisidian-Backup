@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Hosted
 
-- [ ] Make Audacity Memorial Day Recordings
+- [ ] [[Make Audacity Memorial Day Recordings]]
 
 
 ## Training
